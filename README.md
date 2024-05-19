@@ -26,4 +26,4 @@ This repository has some of my Leetcode solutions
 
 [Roman to Integer](https://github.com/AdityaManojMenon/Leetcode/tree/main/0013-roman-to-integer)
 
-Palindrome Number
+[Palindrome Number](https://github.com/AdityaManojMenon/Leetcode/tree/main/0009-palindrome-number)
