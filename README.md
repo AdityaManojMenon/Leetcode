@@ -18,4 +18,4 @@ This repository has some of my Leetcode solutions
 
 [Remove Element](https://github.com/AdityaManojMenon/Leetcode/tree/main/0027-remove-element)
 
-Merge Two Sorted Lists
+[Merge Two Sorted Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0021-merge-two-sorted-lists)
