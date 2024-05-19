@@ -25,3 +25,5 @@ This repository has some of my Leetcode solutions
 [Longest Common Prefix](https://github.com/AdityaManojMenon/Leetcode/tree/main/0014-longest-common-prefix)
 
 [Roman to Integer](https://github.com/AdityaManojMenon/Leetcode/tree/main/0013-roman-to-integer)
+
+Palindrome Number
