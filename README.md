@@ -21,3 +21,5 @@ This repository has some of my Leetcode solutions
 [Merge Two Sorted Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0021-merge-two-sorted-lists)
 
 [Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
+
+[Longest Common Prefix]
