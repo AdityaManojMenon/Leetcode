@@ -12,3 +12,6 @@ This repository has some of my Leetcode solutions
 [Remove Duplicates from Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array)
 
 [Search Insert Position](https://github.com/AdityaManojMenon/Leetcode/tree/main/0035-search-insert-position)
+
+
+[Find the Index of the First Occurrence in a String]
