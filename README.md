@@ -22,4 +22,4 @@ This repository has some of my Leetcode solutions
 
 [Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
 
-[Longest Common Prefix]
+[Longest Common Prefix](https://github.com/AdityaManojMenon/Leetcode/tree/main/0014-longest-common-prefix)
