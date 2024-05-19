@@ -15,3 +15,5 @@ This repository has some of my Leetcode solutions
 
 
 [Find the Index of the First Occurrence in a String](https://github.com/AdityaManojMenon/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string)
+
+[Remove Element]
