@@ -30,4 +30,4 @@ This repository has some of my Leetcode solutions
 
 [Add Two Numbers](https://github.com/AdityaManojMenon/Leetcode/tree/main/0002-add-two-numbers)
 
-Longest Substring Without Repeating Characters
+[Longest Substring Without Repeating Characters](https://github.com/AdityaManojMenon/Leetcode/tree/main/0003-longest-substring-without-repeating-characters)
