@@ -33,3 +33,5 @@ This repository has some of my Leetcode solutions
 [Longest Substring Without Repeating Characters](https://github.com/AdityaManojMenon/Leetcode/tree/main/0003-longest-substring-without-repeating-characters)
 
 [Merge Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0088-merge-sorted-array)
+
+Binary Tree Inorder Traversal
