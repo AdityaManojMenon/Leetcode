@@ -35,3 +35,5 @@ This repository has some of my Leetcode solutions
 [Merge Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0088-merge-sorted-array)
 
 [Binary Tree Inorder Traversal](https://github.com/AdityaManojMenon/Leetcode/tree/main/0094-binary-tree-inorder-traversal)
+
+[Same Tree]
