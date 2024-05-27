@@ -36,4 +36,6 @@ This repository has some of my Leetcode solutions
 
 [Binary Tree Inorder Traversal](https://github.com/AdityaManojMenon/Leetcode/tree/main/0094-binary-tree-inorder-traversal)
 
-[Same Tree]([https://github.com/AdityaManojMenon/Leetcode/tree/main/0100-same-tree](https://github.com/AdityaManojMenon/Leetcode/commit/4b40613e3067ccc1335bc279c444d17092930d75))
+[Same Tree]([https://github.com/AdityaManojMenon/Leetcode/tree/main/0100-same-tree](https://github.com/AdityaManojMenon/Leetcode/commit/4b40613e3067ccc1335bc279c444d17092930d75)
+
+[Symmetric Tree]
