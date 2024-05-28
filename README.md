@@ -40,4 +40,4 @@ This repository has some of my Leetcode solutions
 
 [Symmetric Tree](https://github.com/AdityaManojMenon/Leetcode/tree/main/0101-symmetric-tree)
 
-[Divide Two Integers]
+[Divide Two Integers](https://github.com/AdityaManojMenon/Leetcode/tree/main/0029-divide-two-integers)
