@@ -42,4 +42,4 @@ This repository has some of my Leetcode solutions
 
 [Divide Two Integers](https://github.com/AdityaManojMenon/Leetcode/tree/main/0029-divide-two-integers)
 
-[Single Number]
+[Single Number](https://github.com/AdityaManojMenon/Leetcode/tree/main/0136-single-number)
