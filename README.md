@@ -44,4 +44,4 @@ This repository has some of my Leetcode solutions
 
 [Single Number](https://github.com/AdityaManojMenon/Leetcode/tree/main/0136-single-number)
 
-[Reverse Integer]
+[Reverse Integer](https://github.com/AdityaManojMenon/Leetcode/tree/main/0007-reverse-integer)
