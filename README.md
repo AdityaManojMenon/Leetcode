@@ -46,5 +46,5 @@ This repository has some of my Leetcode solutions
 
 [Reverse Integer](https://github.com/AdityaManojMenon/Leetcode/tree/main/0007-reverse-integer)
 
-[Valid Palindrome]
+[Valid Palindrome](https://github.com/AdityaManojMenon/Leetcode/tree/main/0125-valid-palindrome)
 
