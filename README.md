@@ -48,5 +48,5 @@ This repository has some of my Leetcode solutions
 
 [Valid Palindrome](https://github.com/AdityaManojMenon/Leetcode/tree/main/0125-valid-palindrome)
 
-[Squares of a Sorted Array]
+[Squares of a Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0977-squares-of-a-sorted-array)
 
