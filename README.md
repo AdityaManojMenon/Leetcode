@@ -51,3 +51,5 @@ This repository has some of my Leetcode solutions
 [Squares of a Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0977-squares-of-a-sorted-array)
 
 [Maximum Depth of Binary Tree](https://github.com/AdityaManojMenon/Leetcode/tree/main/0104-maximum-depth-of-binary-tree)
+
+[Minimum Depth of Binary Tree]
