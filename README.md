@@ -56,4 +56,4 @@ This repository has some of my Leetcode solutions
 
 [Intersection of Two Linked Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0160-intersection-of-two-linked-lists)
 
-[Happy Number]
+[Happy Number](https://github.com/AdityaManojMenon/Leetcode/tree/main/0202-happy-number)
