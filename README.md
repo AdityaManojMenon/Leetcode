@@ -54,4 +54,4 @@ This repository has some of my Leetcode solutions
 
 [Minimum Depth of Binary Tree](https://github.com/AdityaManojMenon/Leetcode/tree/main/0111-minimum-depth-of-binary-tree)
 
-[Intersection of Two Linked Lists]
+[Intersection of Two Linked Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0160-intersection-of-two-linked-lists)
