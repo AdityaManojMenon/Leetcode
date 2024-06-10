@@ -63,3 +63,5 @@ This repository has some of my Leetcode solutions
 [Contains Duplicate](https://github.com/AdityaManojMenon/Leetcode/tree/main/0217-contains-duplicate)
 
 [Linked List Cycle](https://github.com/AdityaManojMenon/Leetcode/tree/main/0141-linked-list-cycle)
+
+[Reverse Linked List]
