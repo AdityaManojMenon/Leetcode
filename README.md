@@ -66,4 +66,4 @@ This repository has some of my Leetcode solutions
 
 [Reverse Linked List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0206-reverse-linked-list)
 
-[Implement Queue using Stacks]
+[Implement Queue using Stacks](https://github.com/AdityaManojMenon/Leetcode/tree/main/0232-implement-queue-using-stacks)
