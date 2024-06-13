@@ -69,3 +69,5 @@ This repository has some of my Leetcode solutions
 [Implement Queue using Stacks](https://github.com/AdityaManojMenon/Leetcode/tree/main/0232-implement-queue-using-stacks)
 
 [Valid Anagram](https://github.com/AdityaManojMenon/Leetcode/tree/main/0242-valid-anagram)
+
+[Invert Binary Tree]
