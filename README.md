@@ -71,3 +71,5 @@ This repository has some of my Leetcode solutions
 [Valid Anagram](https://github.com/AdityaManojMenon/Leetcode/tree/main/0242-valid-anagram)
 
 [Invert Binary Tree](https://github.com/AdityaManojMenon/Leetcode/tree/main/0226-invert-binary-tree)
+
+[Diameter of Binary Tree]
