@@ -73,3 +73,5 @@ This repository has some of my Leetcode solutions
 [Invert Binary Tree](https://github.com/AdityaManojMenon/Leetcode/tree/main/0226-invert-binary-tree)
 
 [Diameter of Binary Tree](https://github.com/AdityaManojMenon/Leetcode/tree/main/0543-diameter-of-binary-tree)
+
+[Balanced Binary Tree]
