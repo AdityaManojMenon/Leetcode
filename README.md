@@ -74,4 +74,4 @@ This repository has some of my Leetcode solutions
 
 [Diameter of Binary Tree](https://github.com/AdityaManojMenon/Leetcode/tree/main/0543-diameter-of-binary-tree)
 
-[Balanced Binary Tree]
+[Balanced Binary Tree](https://github.com/AdityaManojMenon/Leetcode/tree/main/0110-balanced-binary-tree)
