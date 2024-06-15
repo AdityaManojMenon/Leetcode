@@ -6,7 +6,7 @@
 2. [#66 Plus One](https://github.com/AdityaManojMenon/Leetcode/tree/main/0066-plus-one)
 3. [#35 Search Insert Position](https://github.com/AdityaManojMenon/Leetcode/tree/main/0035-search-insert-position)
 4. [#27 Remove Element](https://github.com/AdityaManojMenon/Leetcode/tree/main/0027-remove-element)
-5. Merge Sorted Array
+5. [#88 Merge Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0088-merge-sorted-array)
 6. Squares of a Sorted Array
 7. Best Time to Buy and Sell Stock
 8. Contains Duplicate
@@ -14,21 +14,21 @@
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
 2. [#28 Find the Index of the First Occurrence in a String](https://github.com/AdityaManojMenon/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string)
-3. Longest Common Prefix
-4. Roman to Integer
+3. [#14 Longest Common Prefix](https://github.com/AdityaManojMenon/Leetcode/tree/main/0014-longest-common-prefix)
+4. [#13 Roman to Integer](https://github.com/AdityaManojMenon/Leetcode/tree/main/0013-roman-to-integer)
 5. Valid Anagram
 6. Valid Palindrome
    
 # Linked Lists
 1. [#83 Remove Duplicates from Sorted List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list)
-2. Merge Two Sorted Lists
-3. Add Two Numbers
+2. [#21 Merge Two Sorted Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0021-merge-two-sorted-lists)
+3. [#2 Add Two Numbers](https://github.com/AdityaManojMenon/Leetcode/tree/main/0002-add-two-numbers)
 4. Reverse Linked List
 5. Linked List Cycle
 6. Intersection of Two Linked Lists
    
 # Stacks and Queues
-1. Valid Parentheses
+1. [#20 Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
 2. Implement Queue using Stacks
    
 # Trees
@@ -50,14 +50,14 @@
 2. Divide Two Integers
 3. Single Number
 4. Reverse Integer
-5. Palindrome Number
+5. [#9 Palindrome Number](https://github.com/AdityaManojMenon/Leetcode/tree/main/0009-palindrome-number)
 6. Happy Number
    
 # Hash Tables
 1. Contains Duplicate
    
 # Two Pointers/Sliding Window
-1. Longest Substring Without Repeating Characters
+1. [#3 Longest Substring Without Repeating Characters](https://github.com/AdityaManojMenon/Leetcode/tree/main/0003-longest-substring-without-repeating-characters)
 
 
 
@@ -67,21 +67,6 @@
 
 
 
-[Merge Two Sorted Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0021-merge-two-sorted-lists)
-
-[Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
-
-[Longest Common Prefix](https://github.com/AdityaManojMenon/Leetcode/tree/main/0014-longest-common-prefix)
-
-[Roman to Integer](https://github.com/AdityaManojMenon/Leetcode/tree/main/0013-roman-to-integer)
-
-[Palindrome Number](https://github.com/AdityaManojMenon/Leetcode/tree/main/0009-palindrome-number)
-
-[Add Two Numbers](https://github.com/AdityaManojMenon/Leetcode/tree/main/0002-add-two-numbers)
-
-[Longest Substring Without Repeating Characters](https://github.com/AdityaManojMenon/Leetcode/tree/main/0003-longest-substring-without-repeating-characters)
-
-[Merge Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0088-merge-sorted-array)
 
 [Binary Tree Inorder Traversal](https://github.com/AdityaManojMenon/Leetcode/tree/main/0094-binary-tree-inorder-traversal)
 
