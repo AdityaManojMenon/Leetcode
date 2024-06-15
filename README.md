@@ -2,7 +2,7 @@
 
 
 # Arrays
-1. Remove Duplicates from Sorted Array
+1. [#26 Remove Duplicates from Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array)
 2. Plus One - Increment the large integer by one and return the resulting array of digits.
 3. Search Insert Position
 4. Remove Element
@@ -67,7 +67,7 @@
 
 [Plus One](https://github.com/AdityaManojMenon/Leetcode/tree/main/0066-plus-one) - Increment the large integer by one and return the resulting array of digits.
 
-[Remove Duplicates from Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array)
+
 
 [Search Insert Position](https://github.com/AdityaManojMenon/Leetcode/tree/main/0035-search-insert-position)
 
