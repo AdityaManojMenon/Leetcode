@@ -10,46 +10,54 @@ This repository has some of my Leetcode solutions
 6. Squares of a Sorted Array
 7. Best Time to Buy and Sell Stock
 8. Contains Duplicate
-Strings
-Length of Last Word
-Find the Index of the First Occurrence in a String
-Longest Common Prefix
-Roman to Integer
-Valid Anagram
-Valid Palindrome
-Linked Lists
-Remove Duplicates from Sorted List
-Merge Two Sorted Lists
-Add Two Numbers
-Reverse Linked List
-Linked List Cycle
-Intersection of Two Linked Lists
-Stacks and Queues
-Valid Parentheses
-Implement Queue using Stacks
-Trees
-Binary Tree Inorder Traversal
-Same Tree
-Symmetric Tree
-Invert Binary Tree
-Maximum Depth of Binary Tree
-Minimum Depth of Binary Tree
-Diameter of Binary Tree
-Balanced Binary Tree
-Subtree of Another Tree
-Dynamic Programming
-Climbing Stairs
-Mathematics
-Return the square root of x
-Divide Two Integers
-Single Number
-Reverse Integer
-Palindrome Number
-Happy Number
-Hash Tables
-Contains Duplicate
-Two Pointers/Sliding Window
-Longest Substring Without Repeating Characters
+   
+# Strings
+1. Length of Last Word
+2. Find the Index of the First Occurrence in a String
+3. Longest Common Prefix
+4. Roman to Integer
+5. Valid Anagram
+6. Valid Palindrome
+   
+# Linked Lists
+1. Remove Duplicates from Sorted List
+2. Merge Two Sorted Lists
+3. Add Two Numbers
+4. Reverse Linked List
+5. Linked List Cycle
+6. Intersection of Two Linked Lists
+   
+# Stacks and Queues
+1. Valid Parentheses
+2. Implement Queue using Stacks
+   
+# Trees
+1. Binary Tree Inorder Traversal
+2. Same Tree
+3. Symmetric Tree
+4. Invert Binary Tree
+5. Maximum Depth of Binary Tree
+6. Minimum Depth of Binary Tree
+7. Diameter of Binary Tree
+8. Balanced Binary Tree
+9. Subtree of Another Tree
+    
+# Dynamic Programming
+1. Climbing Stairs
+   
+# Mathematics
+1. Return the square root of x
+2. Divide Two Integers
+3. Single Number
+4. Reverse Integer
+5. Palindrome Number
+6. Happy Number
+   
+# Hash Tables
+1. Contains Duplicate
+   
+# Two Pointers/Sliding Window
+1. Longest Substring Without Repeating Characters
 
 [Remove Duplicates from Sorted List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list)
 
