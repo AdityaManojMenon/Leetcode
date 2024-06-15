@@ -78,4 +78,4 @@ This repository has some of my Leetcode solutions
 
 [Subtree of Another ](https://github.com/AdityaManojMenon/Leetcode/tree/main/0572-subtree-of-another-tree)
 
-[Climbing Stairs]
+[Climbing Stairs](https://github.com/AdityaManojMenon/Leetcode/tree/main/0070-climbing-stairs)
