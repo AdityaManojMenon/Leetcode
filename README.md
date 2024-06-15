@@ -76,4 +76,4 @@ This repository has some of my Leetcode solutions
 
 [Balanced Binary Tree](https://github.com/AdityaManojMenon/Leetcode/tree/main/0110-balanced-binary-tree)
 
-[Subtree of Another ]
+[Subtree of Another ](https://github.com/AdityaManojMenon/Leetcode/tree/main/0572-subtree-of-another-tree)
