@@ -20,7 +20,7 @@
 6. Valid Palindrome
    
 # Linked Lists
-1. Remove Duplicates from Sorted List
+1. [#83 Remove Duplicates from Sorted List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list)
 2. Merge Two Sorted Lists
 3. Add Two Numbers
 4. Reverse Linked List
@@ -59,7 +59,7 @@
 # Two Pointers/Sliding Window
 1. Longest Substring Without Repeating Characters
 
-[Remove Duplicates from Sorted List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list)
+
 
 [Return the square root of x](https://github.com/AdityaManojMenon/Leetcode/tree/main/0069-sqrtx)
 
