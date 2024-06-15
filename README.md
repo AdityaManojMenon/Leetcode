@@ -1,5 +1,5 @@
-# Leetcode
-This repository has some of my Leetcode solutions
+# This repository has some of my Leetcode solutions
+
 
 # Arrays
 1. Remove Duplicates from Sorted Array
