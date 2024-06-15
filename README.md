@@ -1,6 +1,56 @@
 # Leetcode
 This repository has some of my Leetcode solutions
 
+# Arrays
+1. Remove Duplicates from Sorted Array
+2. Plus One - Increment the large integer by one and return the resulting array of digits.
+3. Search Insert Position
+4. Remove Element
+5. Merge Sorted Array
+6. Squares of a Sorted Array
+7. Best Time to Buy and Sell Stock
+8. Contains Duplicate
+Strings
+Length of Last Word
+Find the Index of the First Occurrence in a String
+Longest Common Prefix
+Roman to Integer
+Valid Anagram
+Valid Palindrome
+Linked Lists
+Remove Duplicates from Sorted List
+Merge Two Sorted Lists
+Add Two Numbers
+Reverse Linked List
+Linked List Cycle
+Intersection of Two Linked Lists
+Stacks and Queues
+Valid Parentheses
+Implement Queue using Stacks
+Trees
+Binary Tree Inorder Traversal
+Same Tree
+Symmetric Tree
+Invert Binary Tree
+Maximum Depth of Binary Tree
+Minimum Depth of Binary Tree
+Diameter of Binary Tree
+Balanced Binary Tree
+Subtree of Another Tree
+Dynamic Programming
+Climbing Stairs
+Mathematics
+Return the square root of x
+Divide Two Integers
+Single Number
+Reverse Integer
+Palindrome Number
+Happy Number
+Hash Tables
+Contains Duplicate
+Two Pointers/Sliding Window
+Longest Substring Without Repeating Characters
+
 [Remove Duplicates from Sorted List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list)
 
 [Return the square root of x](https://github.com/AdityaManojMenon/Leetcode/tree/main/0069-sqrtx)
