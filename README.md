@@ -3,17 +3,17 @@
 
 # Arrays
 1. [#26 Remove Duplicates from Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array)
-2. Plus One - Increment the large integer by one and return the resulting array of digits.
-3. Search Insert Position
-4. Remove Element
+2. [#66 Plus One](https://github.com/AdityaManojMenon/Leetcode/tree/main/0066-plus-one)
+3. [#35 Search Insert Position](https://github.com/AdityaManojMenon/Leetcode/tree/main/0035-search-insert-position)
+4. [#27 Remove Element](https://github.com/AdityaManojMenon/Leetcode/tree/main/0027-remove-element)
 5. Merge Sorted Array
 6. Squares of a Sorted Array
 7. Best Time to Buy and Sell Stock
 8. Contains Duplicate
    
 # Strings
-1. Length of Last Word
-2. Find the Index of the First Occurrence in a String
+1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
+2. [#28 Find the Index of the First Occurrence in a String](https://github.com/AdityaManojMenon/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string)
 3. Longest Common Prefix
 4. Roman to Integer
 5. Valid Anagram
@@ -46,7 +46,7 @@
 1. Climbing Stairs
    
 # Mathematics
-1. Return the square root of x
+1. [#69 Return the square root of x](https://github.com/AdityaManojMenon/Leetcode/tree/main/0069-sqrtx)
 2. Divide Two Integers
 3. Single Number
 4. Reverse Integer
@@ -61,20 +61,11 @@
 
 
 
-[Return the square root of x](https://github.com/AdityaManojMenon/Leetcode/tree/main/0069-sqrtx)
-
-[Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
-
-[Plus One](https://github.com/AdityaManojMenon/Leetcode/tree/main/0066-plus-one) - Increment the large integer by one and return the resulting array of digits.
 
 
 
-[Search Insert Position](https://github.com/AdityaManojMenon/Leetcode/tree/main/0035-search-insert-position)
 
 
-[Find the Index of the First Occurrence in a String](https://github.com/AdityaManojMenon/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string)
-
-[Remove Element](https://github.com/AdityaManojMenon/Leetcode/tree/main/0027-remove-element)
 
 [Merge Two Sorted Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0021-merge-two-sorted-lists)
 
