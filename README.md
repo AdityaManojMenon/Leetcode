@@ -10,7 +10,7 @@
 6. [#977 Squares of a Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0977-squares-of-a-sorted-array)
 7. [#121 Best Time to Buy and Sell Stock](https://github.com/AdityaManojMenon/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock)
 8. [#217 Contains Duplicate](https://github.com/AdityaManojMenon/Leetcode/tree/main/0217-contains-duplicate)
-9. [Longest Palindromic Substring]
+9. [Longest Palindromic Substring](https://github.com/AdityaManojMenon/Leetcode/tree/main/0005-longest-palindromic-substring)
    
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
