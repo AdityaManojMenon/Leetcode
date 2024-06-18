@@ -29,6 +29,7 @@
 4. [#206 Reverse Linked List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0206-reverse-linked-list)
 5. [#141 Linked List Cycle](https://github.com/AdityaManojMenon/Leetcode/tree/main/0141-linked-list-cycle)
 6. [#160 Intersection of Two Linked Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0160-intersection-of-two-linked-lists)
+7. Remove Nth Node From End of List
    
 # Stacks and Queues
 1. [#20 Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
