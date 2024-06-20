@@ -59,6 +59,7 @@
    
 # Hash Tables
 1. [#217 Contains Duplicate](https://github.com/AdityaManojMenon/Leetcode/tree/main/0217-contains-duplicate)
+2. Group Anagrams
    
 # Two Pointers/Sliding Window
 1. [#3 Longest Substring Without Repeating Characters](https://github.com/AdityaManojMenon/Leetcode/tree/main/0003-longest-substring-without-repeating-characters)
