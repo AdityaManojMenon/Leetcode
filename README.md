@@ -34,7 +34,7 @@
 # Stacks and Queues
 1. [#20 Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
 2. [#232 Implement Queue using Stacks](https://github.com/AdityaManojMenon/Leetcode/tree/main/0232-implement-queue-using-stacks)
-3. Generate Parentheses
+3. [Generate Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0022-generate-parentheses)
    
 # Trees
 1. [#94 Binary Tree Inorder Traversal](https://github.com/AdityaManojMenon/Leetcode/tree/main/0094-binary-tree-inorder-traversal)
