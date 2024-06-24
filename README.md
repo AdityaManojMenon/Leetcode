@@ -12,8 +12,8 @@
 8. [#217 Contains Duplicate](https://github.com/AdityaManojMenon/Leetcode/tree/main/0217-contains-duplicate)
 9. [#33 Search in Rotated Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0033-search-in-rotated-sorted-array)
 10. [#53 Maximum Subarray](https://github.com/AdityaManojMenon/Leetcode/tree/main/0053-maximum-subarray)
-11. [152. Maximum Product Subarray](https://github.com/AdityaManojMenon/Leetcode/tree/main/0152-maximum-product-subarray)
-12. [153 Find Minimum in Rotated Sorted Array]
+11. [#152. Maximum Product Subarray](https://github.com/AdityaManojMenon/Leetcode/tree/main/0152-maximum-product-subarray)
+12. [#153 Find Minimum in Rotated Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array)
    
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
@@ -22,7 +22,7 @@
 4. [#13 Roman to Integer](https://github.com/AdityaManojMenon/Leetcode/tree/main/0013-roman-to-integer)
 5. [#242 Valid Anagram](https://github.com/AdityaManojMenon/Leetcode/tree/main/0242-valid-anagram)
 6. [#125 Valid Palindrome](https://github.com/AdityaManojMenon/Leetcode/tree/main/0125-valid-palindrome)
-7. [Longest Palindromic Substring](https://github.com/AdityaManojMenon/Leetcode/tree/main/0005-longest-palindromic-substring)
+7. [#5 Longest Palindromic Substring](https://github.com/AdityaManojMenon/Leetcode/tree/main/0005-longest-palindromic-substring)
    
 # Linked Lists
 1. [#83 Remove Duplicates from Sorted List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list)
@@ -31,12 +31,12 @@
 4. [#206 Reverse Linked List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0206-reverse-linked-list)
 5. [#141 Linked List Cycle](https://github.com/AdityaManojMenon/Leetcode/tree/main/0141-linked-list-cycle)
 6. [#160 Intersection of Two Linked Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0160-intersection-of-two-linked-lists)
-7. [Remove Nth Node From End of List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list)
+7. [#19 Remove Nth Node From End of List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list)
    
 # Stacks and Queues
 1. [#20 Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
 2. [#232 Implement Queue using Stacks](https://github.com/AdityaManojMenon/Leetcode/tree/main/0232-implement-queue-using-stacks)
-3. [Generate Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0022-generate-parentheses)
+3. [#22 Generate Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0022-generate-parentheses)
    
 # Trees
 1. [#94 Binary Tree Inorder Traversal](https://github.com/AdityaManojMenon/Leetcode/tree/main/0094-binary-tree-inorder-traversal)
