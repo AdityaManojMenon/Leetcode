@@ -12,7 +12,7 @@
 8. [#217 Contains Duplicate](https://github.com/AdityaManojMenon/Leetcode/tree/main/0217-contains-duplicate)
 9. [#33 Search in Rotated Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0033-search-in-rotated-sorted-array)
 10. [#53 Maximum Subarray](https://github.com/AdityaManojMenon/Leetcode/tree/main/0053-maximum-subarray)
-11. [152. Maximum Product Subarray]
+11. [152. Maximum Product Subarray](https://github.com/AdityaManojMenon/Leetcode/tree/main/0152-maximum-product-subarray)
    
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
