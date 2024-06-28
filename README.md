@@ -34,7 +34,7 @@
 6. [#160 Intersection of Two Linked Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0160-intersection-of-two-linked-lists)
 7. [#19 Remove Nth Node From End of List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list)
 8. [#138 Copy List with Random Pointer](https://github.com/AdityaManojMenon/Leetcode/tree/main/0138-copy-list-with-random-pointer)
-9. Reorder List
+9. [#143 Reorder List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0143-reorder-list)
    
 # Stacks and Queues
 1. [#20 Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
