@@ -35,7 +35,7 @@
 7. [#19 Remove Nth Node From End of List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list)
 8. [#138 Copy List with Random Pointer](https://github.com/AdityaManojMenon/Leetcode/tree/main/0138-copy-list-with-random-pointer)
 9. [#143 Reorder List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0143-reorder-list)
-10. LRU Cache
+10. [#146 LRU Cache](https://github.com/AdityaManojMenon/Leetcode/tree/main/0146-lru-cache)
    
 # Stacks and Queues
 1. [#20 Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
