@@ -42,6 +42,7 @@
 2. [#232 Implement Queue using Stacks](https://github.com/AdityaManojMenon/Leetcode/tree/main/0232-implement-queue-using-stacks)
 3. [#22 Generate Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0022-generate-parentheses)
 4. [#155 Min Stack](https://github.com/AdityaManojMenon/Leetcode/tree/main/0155-min-stack)
+5. [Evaluate Reverse Polish Notation]
    
 # Trees
 1. [#94 Binary Tree Inorder Traversal](https://github.com/AdityaManojMenon/Leetcode/tree/main/0094-binary-tree-inorder-traversal)
