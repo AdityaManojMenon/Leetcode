@@ -15,6 +15,7 @@
 11. [#152. Maximum Product Subarray](https://github.com/AdityaManojMenon/Leetcode/tree/main/0152-maximum-product-subarray)
 12. [#153 Find Minimum in Rotated Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array)
 13. [#238 Product of Array Except Self](https://github.com/AdityaManojMenon/Leetcode/tree/main/0238-product-of-array-except-self)
+14. [Majority Element](https://github.com/AdityaManojMenon/Leetcode/tree/main/0169-majority-element)
    
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
@@ -24,7 +25,7 @@
 5. [#242 Valid Anagram](https://github.com/AdityaManojMenon/Leetcode/tree/main/0242-valid-anagram)
 6. [#125 Valid Palindrome](https://github.com/AdityaManojMenon/Leetcode/tree/main/0125-valid-palindrome)
 7. [#5 Longest Palindromic Substring](https://github.com/AdityaManojMenon/Leetcode/tree/main/0005-longest-palindromic-substring)
-8. [Majority Element]
+   
    
 # Linked Lists
 1. [#83 Remove Duplicates from Sorted List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list)
