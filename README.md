@@ -15,7 +15,7 @@
 11. [#152. Maximum Product Subarray](https://github.com/AdityaManojMenon/Leetcode/tree/main/0152-maximum-product-subarray)
 12. [#153 Find Minimum in Rotated Sorted Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array)
 13. [#238 Product of Array Except Self](https://github.com/AdityaManojMenon/Leetcode/tree/main/0238-product-of-array-except-self)
-14. [Majority Element](https://github.com/AdityaManojMenon/Leetcode/tree/main/0169-majority-element)
+14. [#169 Majority Element](https://github.com/AdityaManojMenon/Leetcode/tree/main/0169-majority-element)
    
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
