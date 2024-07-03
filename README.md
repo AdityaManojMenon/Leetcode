@@ -24,6 +24,7 @@
 5. [#242 Valid Anagram](https://github.com/AdityaManojMenon/Leetcode/tree/main/0242-valid-anagram)
 6. [#125 Valid Palindrome](https://github.com/AdityaManojMenon/Leetcode/tree/main/0125-valid-palindrome)
 7. [#5 Longest Palindromic Substring](https://github.com/AdityaManojMenon/Leetcode/tree/main/0005-longest-palindromic-substring)
+8. [Majority Element]
    
 # Linked Lists
 1. [#83 Remove Duplicates from Sorted List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list)
