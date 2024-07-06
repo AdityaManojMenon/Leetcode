@@ -17,7 +17,7 @@
 13. [#238 Product of Array Except Self](https://github.com/AdityaManojMenon/Leetcode/tree/main/0238-product-of-array-except-self)
 14. [#169 Majority Element](https://github.com/AdityaManojMenon/Leetcode/tree/main/0169-majority-element)
 15. [#46 Permutations](https://github.com/AdityaManojMenon/Leetcode/tree/main/0046-permutations)
-16. Baseball Game
+16. [#682 Baseball Game](https://github.com/AdityaManojMenon/Leetcode/tree/main/0682-baseball-game)
    
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
