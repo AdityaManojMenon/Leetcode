@@ -20,6 +20,7 @@
 16. [#682 Baseball Game](https://github.com/AdityaManojMenon/Leetcode/tree/main/0682-baseball-game)
 17. [#1929 Concatenation of Array](https://github.com/AdityaManojMenon/Leetcode/tree/main/1929-concatenation-of-array)
 18. [Maximum Sum Circular Subarray](https://github.com/AdityaManojMenon/Leetcode/tree/main/0918-maximum-sum-circular-subarray)
+19. Longest Turbulent Subarray
    
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
