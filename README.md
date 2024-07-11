@@ -22,6 +22,7 @@
 18. [#918 Maximum Sum Circular Subarray](https://github.com/AdityaManojMenon/Leetcode/tree/main/0918-maximum-sum-circular-subarray)
 19. [#978 Longest Turbulent Subarray](https://github.com/AdityaManojMenon/Leetcode/tree/main/0978-longest-turbulent-subarray)
 20. [#643 Maximum Average Subarray I](https://github.com/AdityaManojMenon/Leetcode/tree/main/0643-maximum-average-subarray-i)
+21. [Contains Duplicate II]
    
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
