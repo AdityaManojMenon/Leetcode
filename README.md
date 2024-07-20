@@ -84,5 +84,6 @@
    
 # Two Pointers/Sliding Window
 1. [#3 Longest Substring Without Repeating Characters](https://github.com/AdityaManojMenon/Leetcode/tree/main/0003-longest-substring-without-repeating-characters)
+2. [#424 Longest Repeating Character Replacement]
 
 
