@@ -32,8 +32,7 @@
 3. [#14 Longest Common Prefix](https://github.com/AdityaManojMenon/Leetcode/tree/main/0014-longest-common-prefix)
 4. [#13 Roman to Integer](https://github.com/AdityaManojMenon/Leetcode/tree/main/0013-roman-to-integer)
 5. [#242 Valid Anagram](https://github.com/AdityaManojMenon/Leetcode/tree/main/0242-valid-anagram)
-6. [#125 Valid Palindrome](https://github.com/AdityaManojMenon/Leetcode/tree/main/0125-valid-palindrome)
-7. [#5 Longest Palindromic Substring](https://github.com/AdityaManojMenon/Leetcode/tree/main/0005-longest-palindromic-substring)
+6. [#5 Longest Palindromic Substring](https://github.com/AdityaManojMenon/Leetcode/tree/main/0005-longest-palindromic-substring)
    
    
 # Linked Lists
