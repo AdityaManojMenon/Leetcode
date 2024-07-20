@@ -80,11 +80,11 @@
 1. [#217 Contains Duplicate](https://github.com/AdityaManojMenon/Leetcode/tree/main/0217-contains-duplicate)
 2. [#49 Group Anagrams](https://github.com/AdityaManojMenon/Leetcode/tree/main/0049-group-anagrams)
 3. [#17 Letter Combinations of a Phone Number](https://github.com/AdityaManojMenon/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number)
-4. [#167 Two Sum II - Input Array Is Sorted]
    
 # Two Pointers/Sliding Window
 1. [#3 Longest Substring Without Repeating Characters](https://github.com/AdityaManojMenon/Leetcode/tree/main/0003-longest-substring-without-repeating-characters)
 2. [#424 Longest Repeating Character Replacement](https://github.com/AdityaManojMenon/Leetcode/tree/main/0424-longest-repeating-character-replacement)
 3. [#125 Valid Palindrome](https://github.com/AdityaManojMenon/Leetcode/tree/main/0125-valid-palindrome)
+4. [#167 Two Sum II - Input Array Is Sorted](https://github.com/AdityaManojMenon/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted)
 
 
