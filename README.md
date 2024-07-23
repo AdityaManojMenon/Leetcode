@@ -25,7 +25,7 @@
 21. [#219 Contains Duplicate II](https://github.com/AdityaManojMenon/Leetcode/tree/main/0219-contains-duplicate-ii)
 22. [#1343 Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://github.com/AdityaManojMenon/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)
 23. [#209 Minimum Size Subarray Sum](https://github.com/AdityaManojMenon/Leetcode/tree/main/0209-minimum-size-subarray-sum)
-24. [#56 Merge Intervals]
+24. [#56 Merge Intervals](https://github.com/AdityaManojMenon/Leetcode/tree/main/0056-merge-intervals)
    
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
