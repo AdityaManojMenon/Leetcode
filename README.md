@@ -29,6 +29,7 @@
 25. [#303 Range Sum Query - Immutable](https://github.com/AdityaManojMenon/Leetcode/tree/main/0303-range-sum-query-immutable)
 26. [#724 Find Pivot Index](https://github.com/AdityaManojMenon/Leetcode/tree/main/0724-find-pivot-index)
 27. [#560 Subarray Sum Equals K](https://github.com/AdityaManojMenon/Leetcode/tree/main/0560-subarray-sum-equals-k)
+28. [#304 Range Sum Query 2D - Immutable]
    
 # Strings
 1. [#58 Length of Last Word](https://github.com/AdityaManojMenon/Leetcode/tree/main/0058-length-of-last-word)
