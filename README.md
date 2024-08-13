@@ -52,6 +52,7 @@
 9. [#143 Reorder List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0143-reorder-list)
 10. [#146 LRU Cache](https://github.com/AdityaManojMenon/Leetcode/tree/main/0146-lru-cache)
 11. [#21. Merge Two Sorted Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0021-merge-two-sorted-lists)
+12. [#707 Design Linked List]
    
 # Stacks and Queues
 1. [#20 Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
