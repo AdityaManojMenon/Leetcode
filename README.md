@@ -53,7 +53,7 @@
 10. [#146 LRU Cache](https://github.com/AdityaManojMenon/Leetcode/tree/main/0146-lru-cache)
 11. [#21 Merge Two Sorted Lists](https://github.com/AdityaManojMenon/Leetcode/tree/main/0021-merge-two-sorted-lists)
 12. [#707 Design Linked List](https://github.com/AdityaManojMenon/Leetcode/tree/main/0707-design-linked-list)
-13. [#1472 Design Browser History]
+13. [#1472 Design Browser History](https://github.com/AdityaManojMenon/Leetcode/tree/main/1472-design-browser-history)
    
 # Stacks and Queues
 1. [#20 Valid Parentheses](https://github.com/AdityaManojMenon/Leetcode/tree/main/0020-valid-parentheses)
